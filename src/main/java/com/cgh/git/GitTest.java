@@ -1,0 +1,11 @@
+package com.cgh.git;
+
+/**
+ * @author cgh
+ * @date 2022/7/11 22:12
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
